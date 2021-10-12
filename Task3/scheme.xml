@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <connectedWith>
+         <element>
+            <dist>100</dist>
+            <id>2</id>
+         </element>
+         <element>
+            <dist>150</dist>
+            <id>3</id>
+         </element>
+      </connectedWith>
+      <id>1</id>
+   </element>
+   <element>
+      <connectedWith>
+         <element>
+            <dist>100</dist>
+            <id>1</id>
+         </element>
+         <element>
+            <dist>50</dist>
+            <id>3</id>
+         </element>
+      </connectedWith>
+      <id>2</id>
+   </element>
+   <element>
+      <connectedWith>
+         <element>
+            <dist>150</dist>
+            <id>1</id>
+         </element>
+         <element>
+            <dist>50</dist>
+            <id>2</id>
+         </element>
+      </connectedWith>
+      <id>3</id>
+   </element>
+</root>
